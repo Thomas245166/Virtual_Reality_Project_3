@@ -16,7 +16,7 @@
 
 ### Goal
 - Learn important information about meaningful events in history in an engaging way
-- Self Assestment at the 
+- Pass the Self Assestment at the self assestment at the end to show an understanding of their historical importance
 
 
 ```
