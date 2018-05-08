@@ -52,7 +52,7 @@
 #### [Palace](https://poly.google.com/view/3Xf6ko_eSAC)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Napoleon.png)
 #### [Cannon](https://assetstore.unity.com/packages/3d/props/weapons/16th-century-cannon-70417)
-![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Cannon%20Model.png)
+![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Cannon%20Model.jpg)
 #### [Base Person](https://poly.google.com/view/c3Ibh9I3udk)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Soldier%20Shooting%20Position.png)
 
