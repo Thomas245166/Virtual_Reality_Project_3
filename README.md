@@ -5,7 +5,7 @@
 - Cody Otterbrine
 - Cheol Hwan Im
 
-# [Video](link here)
+# [Video](https://youtu.be/Qpr-1fpCh-M)
 
 ### Premise
 - You’re on your way to class and you know you’re about to fail your history test, but you don’t have time to study because it’s in 5 minutes. On your way there, sitting in the middle of memorial circle there is a phone booth with the phone ringing, and you go inside. You answer the phone and get taken to some other point in time. With the use of this time machine you visit various points in time and learn first-hand the history needed to past your test.
