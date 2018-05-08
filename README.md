@@ -53,16 +53,17 @@ Syntax highlighted code block
 
 ### Caesar Scene
 [Church](https://poly.google.com/view/3gIlXOyZxna)
-[Cathedral](https://poly.google.com/view/fEJKTKNRAsN)
+
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Caesar%20Scene.png)
-[Base Person](https://poly.google.com/view/c3Ibh9I3udk)
+[Cathedral](https://poly.google.com/view/fEJKTKNRAsN)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Caesar%20People%20Models.png)
+[Base Person](https://poly.google.com/view/c3Ibh9I3udk)
 
 ### Napoleon Scene
-[Palace](https://poly.google.com/view/3Xf6ko_eSAC)
+
 [Cathedral](https://poly.google.com/view/fEJKTKNRAsN)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Napoleon%20Scene.png)
-[Base Person](https://poly.google.com/view/c3Ibh9I3udk)
+[Palace](https://poly.google.com/view/3Xf6ko_eSAC)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Napoleon.png)
 [Base Person](https://poly.google.com/view/c3Ibh9I3udk)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Soldier%20Shooting%20Position.png)
