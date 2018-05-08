@@ -1,22 +1,29 @@
+# Virtual Reality Project 3
 ### Group Members
 - Thomas Sanchez
 - Megan Taylor
 - Cody Otterbrine
-- Andrew Im
+- Cheol Hwan Im
 
 ### Premise
 - You’re on your way to class and you know you’re about to fail your history test, but you don’t have time to study because it’s in 5 minutes. On your way there, sitting in the middle of memorial circle there is a phone booth with the phone ringing, and you go inside. You answer the phone and get taken to some other point in time. With the use of this time machine you visit various points in time and learn first-hand the history needed to past your test.
 
 ### 3 Distinct Epochs
 - Experience Three Virtual Reality Scenes
-  - Watch Julius Ceasar get betrayed
-  - Watch Napoleans whiff of Grapeshot against the Royalist
-  - Watch the Titanic Sink
-- Each Scene will contain simluations to educate the view over the epoch
+  - [Watch Julius Ceasar get betrayed](https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar)
+  - [Watch Napoleans fight against the Royalist](https://en.wikipedia.org/wiki/13_Vend%C3%A9miaire)
+  - [Watch the Titanic Sink](https://en.wikipedia.org/wiki/Sinking_of_the_RMS_Titanic)
+- Each Scene will contain simluations to educate the viewer over the historical event
 
 ### Goal
 - Learn important information about meaningful events in history in an engaging way
 - Pass the Self Assestment at the self assestment at the end to show an understanding of their historical importance
+
+### Win Condition
++Get the all the questions on the quiz right
+
+### Lose Condition
++Choose the wrong answer on the quiz
 
 
 ```
