@@ -45,11 +45,22 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-#### [Port Upgrade](https://poly.google.com/view/bzRjbJ74JCr)
+## Assets Used
+
+### TTU Scene
+#### Phone Booth
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Phone%20Booth.png)
 
+### Caesar Scene
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Caesar%20Scene.png)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Caesar%20People%20Models.png)
+
+### Napoleon Scene
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Napoleon%20Scene.png)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Napoleon.png)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Soldier%20Shooting%20Position.png)
+
+[Base Person](https://poly.google.com/view/c3Ibh9I3udk)
+[Pillar](https://poly.google.com/view/60CJrsmi_Tt)
+[Church](https://poly.google.com/view/3gIlXOyZxna)
+[Cathedral](https://poly.google.com/view/fEJKTKNRAsN)
