@@ -22,10 +22,10 @@
 - Pass the Self Assestment at the self assestment at the end to show an understanding of their historical importance
 
 ### Win Condition
-+Get the all the questions on the quiz right
++ Get the all the questions on the quiz right
 
 ### Lose Condition
-+Choose the wrong answer on the quiz
++ Choose the wrong answer on the quiz
 
 
 ```
