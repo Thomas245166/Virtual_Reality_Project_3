@@ -33,24 +33,29 @@
 
 ### TTU Scene
 #### Phone Booth
+![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/TTU.png)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Phone%20Booth.png)
 #### [TTU Skybox](https://www.google.com/maps/place/Memorial+Circle,+Lubbock,+TX+79415/@33.584399,-101.8757688,17.75z/data=!4m5!3m4!1s0x86fe12b3cd90586f:0xc8751ae775183e1f!8m2!3d33.5846133!4d-101.8746735)
 
 ### Caesar Scene
 #### [Church](https://poly.google.com/view/3gIlXOyZxna)
-
+![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Caesar%20Scene%20Tone.png)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Caesar%20Scene.png)
 #### [Cathedral](https://poly.google.com/view/fEJKTKNRAsN)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Caesar%20People%20Models.png)
 #### [Base Person](https://poly.google.com/view/c3Ibh9I3udk)
 
 ### Napoleon Scene
-
+![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/France%20Scene.png)
 #### [Cathedral](https://poly.google.com/view/fEJKTKNRAsN)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Napoleon%20Scene.png)
 #### [Palace](https://poly.google.com/view/3Xf6ko_eSAC)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Napoleon.png)
 #### [Base Person](https://poly.google.com/view/c3Ibh9I3udk)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Soldier%20Shooting%20Position.png)
+
+### Titanic Scene
+![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Titanic%20Scene.png)
+
 
 
