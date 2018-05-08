@@ -52,15 +52,19 @@ Syntax highlighted code block
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Phone%20Booth.png)
 
 ### Caesar Scene
+[Church](https://poly.google.com/view/3gIlXOyZxna)
+[Cathedral](https://poly.google.com/view/fEJKTKNRAsN)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Caesar%20Scene.png)
+[Base Person](https://poly.google.com/view/c3Ibh9I3udk)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Caesar%20People%20Models.png)
 
 ### Napoleon Scene
+[Palace](https://poly.google.com/view/3Xf6ko_eSAC)
+[Cathedral](https://poly.google.com/view/fEJKTKNRAsN)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Napoleon%20Scene.png)
+[Base Person](https://poly.google.com/view/c3Ibh9I3udk)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Napoleon.png)
+[Base Person](https://poly.google.com/view/c3Ibh9I3udk)
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Soldier%20Shooting%20Position.png)
 
-[Base Person](https://poly.google.com/view/c3Ibh9I3udk)
-[Pillar](https://poly.google.com/view/60CJrsmi_Tt)
-[Church](https://poly.google.com/view/3gIlXOyZxna)
-[Cathedral](https://poly.google.com/view/fEJKTKNRAsN)
+
