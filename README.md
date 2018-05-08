@@ -13,7 +13,9 @@
 ### 3 Distinct Epochs
 - Experience Three Virtual Reality Scenes
   - [Watch Julius Ceasar get betrayed](https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar)
+  
   - [Watch Napoleans fight against the Royalist](https://en.wikipedia.org/wiki/13_Vend%C3%A9miaire)
+  
   - [Watch the Titanic Sink](https://en.wikipedia.org/wiki/Sinking_of_the_RMS_Titanic)
 - Each Scene will contain simluations to educate the viewer over the historical event
 
@@ -27,38 +29,12 @@
 ### Lose Condition
 + Choose the wrong answer on the quiz
 
-
-```
-You can use the [editor on GitHub](https://github.com/Thomas245166/Virtual_Reality_Project_3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ## Assets Used
 
 ### TTU Scene
 #### Phone Booth
 ![alt text](https://github.com/Thomas245166/Virtual_Reality_Project_3/blob/master/Asset%20Pictures/Phone%20Booth.png)
+#### [TTU Skybox](https://www.google.com/maps/place/Memorial+Circle,+Lubbock,+TX+79415/@33.584399,-101.8757688,17.75z/data=!4m5!3m4!1s0x86fe12b3cd90586f:0xc8751ae775183e1f!8m2!3d33.5846133!4d-101.8746735)
 
 ### Caesar Scene
 #### [Church](https://poly.google.com/view/3gIlXOyZxna)
